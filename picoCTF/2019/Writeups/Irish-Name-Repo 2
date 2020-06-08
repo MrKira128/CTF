@@ -1,0 +1,8 @@
+Irish-Name-Repo 2 - Points: 350 - Web Exploitation
+There is a website running at https://2019shell1.picoctf.com/problem/60775/ (link) or http://2019shell1.picoctf.com:60775
+Someone has bypassed the login before, and now it's being strengthened. 
+Try to see if you can still login! 
+----------------------------------
+enter admin'-- on username you can not enter 'or'
+----------------------------------
+ flag is: picoCTF{m0R3_SQL_plz_015815e2}
