@@ -1,0 +1,15 @@
+where are the robots - Points: 100 - Web Exploitation
+Can you find the robots? https://2019shell1.picoctf.com/problem/21868/ (link) or http://2019shell1.picoctf.com:21868
+Hints
+What part of the website could tell you where the creator doesn't want you to look?
+-----------------------------------------
+go to /robots.txt    
+You will get 
+  User-agent: *
+  Disallow: /e0779.html
+
+go to /e0779.html
+------------------------------------
+picoCTF{ca1cu1at1ng_Mach1n3s_e0779}
+
+
